@@ -595,6 +595,7 @@ section {
 
 #about .about-container p {
   line-height: 26px;
+  text-align: justify;
 }
 
 #about .about-container p:last-child {

@@ -587,7 +587,8 @@ section {
 
 #about .about-container .background {
   min-height: 300px;
-  background: url(../img/about-img.jpg) center top no-repeat;
+  /* max-width: 300px; */
+  background: url(../img/team-2.jpg) center top no-repeat;
   margin-bottom: 10px;
 }
 
@@ -988,7 +989,7 @@ section {
 #team .member .pic {
   margin-bottom: 15px;
   overflow: hidden;
-  height: 260px;
+  height: 300px;
 }
 
 #team .member .pic img {
